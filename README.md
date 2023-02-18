@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Miquel Debon Villagrasa</h1>
+<h2 align="center"> i read, code and drink too much coffee ☕️ </h2>
+
+<h1 align="center">Hi 👋, I'm Miquel Debon Villagrasa </h1>
 <h3 align="center">A passionate backend developer from Barcelona</h3>
 
 - 🔭 I’m currently working on **personal project**
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **JAVA Backend development**
 
 - 👯 I’m looking to collaborate on **backend development or Revit plugins**
 
-- 💬 Ask me about **Revit, BIM, Dynamo, JAVA**
+- 
 
 - 📫 How to reach me **debon.miquel@gmail.com**
 
