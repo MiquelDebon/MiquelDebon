@@ -1,4 +1,4 @@
-<h2 align="center"> i read, code and drink too much coffee ☕️ </h2>
+<h3 align="center"> i read, code and drink too much coffee ☕️ </h3>
 <h1 align="center">Hi 👋, I'm Miquel Debon Villagrasa 💻</h1>
 <h3 align="center">A passionate backend developer from Barcelona</h3>
 
