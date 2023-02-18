@@ -1,10 +1,12 @@
+<h1 align="center">hello world ... </h1>
+
+
 <h3 align="center"> i read, code and drink too much coffee ☕️ </h3>
 <br>
 
-<h1 align="center">hello world ... </h1>
 <!-- <h3 align="left">A passionate about coding and optimization from Barcelona 🌊</h3> -->
 
-- 👤 My name is **Miquel Debon Villagrasa** 💻
+👈 👤 My name is **Miquel Debon Villagrasa** 💻
 
 - 🌱 I’m currently learning **JAVA Backend development**
 
