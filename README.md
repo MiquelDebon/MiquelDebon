@@ -1,6 +1,6 @@
 <br>
 
-<h3 align="center" color="gray" > i read, code and drink too much coffee ☕️ </h3>
+<h3 align="center" style="color:grey" > i read, code and drink too much coffee ☕️ </h3>
 <br>
 <h2 align="center">hello world ... </h2>
 
