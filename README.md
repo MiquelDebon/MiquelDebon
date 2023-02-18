@@ -1,7 +1,5 @@
 <br>
-
-<h3 align="center"  style="color:grey"> i read, code and drink too much coffee ☕️ </h3>
-<h1 style="color:grey">Your text here</h1>
+<h3 align="center"> i read, code and drink too much coffee ☕️ </h3>
 <br>
 <h2 align="center">hello world ... </h2>
 
