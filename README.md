@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Miquel Debon Villagrasa</h1>
 <h3 align="center">A passionate backend developer from Barcelona</h3>
 
+- 🔭 I’m currently working on **personal project**
+
 - 🌱 I’m currently learning **JAVA**
+
+- 👯 I’m looking to collaborate on **backend development or Revit plugins**
 
 - 💬 Ask me about **Revit, BIM, Dynamo, JAVA**
 
@@ -9,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/miquel-debón-villagrasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[www.linkedin.com/in/miquel-debón-villagrasa](https://www.linkedin.com/in/miquel-deb%C3%B3n-villagrasa/)" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/miquel-debón-villagrasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/miquel-debón-villagrasa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
