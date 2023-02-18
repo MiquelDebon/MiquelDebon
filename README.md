@@ -4,8 +4,6 @@
 <br>
 <h2 align="center">hello world ... </h2>
 
-<h1> </h1>
-
 <!-- <h3 align="left">A passionate about coding and optimization from Barcelona 🌊</h3> -->
 
 - 👤 My name is **Miquel Debon Villagrasa** 💻
