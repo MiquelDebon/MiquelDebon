@@ -7,9 +7,9 @@
 
 - 👤 My name is **Miquel Debon Villagrasa** 
 
-- 🌱 I’m currently learning **JAVA Backend development**
+- 🌱 I’m currently learning **JAVA Backend development** at Barcelona Activa 
 
-- 🔭 I’m currently working on **personal project**
+- 🔭 I’m currently working on develop backend projects
 
 - ✉️ How to reach me **debon.miquel@gmail.com**
 
