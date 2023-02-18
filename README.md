@@ -10,9 +10,7 @@
 
 - 👯 I’m looking to collaborate on **backend development or Revit plugins**
 
-- 
-
-- 📫 How to reach me **debon.miquel@gmail.com**
+- 📫✉️ How to reach me **debon.miquel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
