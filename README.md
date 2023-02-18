@@ -4,13 +4,11 @@
 
 - 👤 My name is **Miquel Debon Villagrasa** 💻
 
-- 🔭 I’m currently working on **personal project**
-
 - 🌱 I’m currently learning **JAVA Backend development**
 
-- 👯 I’m looking to collaborate on **backend development or Revit plugins**
+- 🔭 I’m currently working on **personal project**
 
-- 📫✉️ How to reach me **debon.miquel@gmail.com**
+- ✉️ How to reach me **debon.miquel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
