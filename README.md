@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JAVA Backend development** at Barcelona Activa 
 
-- 🔭 I’m currently working on develop backend projects
+- 🔭 I’m currently working on developing backend projects and actively seeking job opportunities
 
 - ✉️ How to reach me **debon.miquel@gmail.com**
 
